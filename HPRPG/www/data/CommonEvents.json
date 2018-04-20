@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":108,"indent":0,"parameters":["Supprime toutes les images de l'écran-titre."]},{"code":232,"indent":0,"parameters":[3,0,0,0,0,0,100,100,0,0,40,false]},{"code":232,"indent":0,"parameters":[4,0,0,0,0,0,100,100,0,0,40,false]},{"code":232,"indent":0,"parameters":[5,0,0,0,0,0,100,100,0,0,40,false]},{"code":232,"indent":0,"parameters":[6,0,0,0,0,0,100,100,0,0,40,true]},{"code":111,"indent":0,"parameters":[0,11,0]},{"code":232,"indent":1,"parameters":[2,0,0,0,0,0,100,100,0,0,30,false]},{"code":232,"indent":1,"parameters":[1,0,0,0,0,0,100,100,255,0,60,true]},{"code":235,"indent":1,"parameters":[1]},{"code":235,"indent":1,"parameters":[2]},{"code":235,"indent":1,"parameters":[3]},{"code":235,"indent":1,"parameters":[4]},{"code":235,"indent":1,"parameters":[5]},{"code":235,"indent":1,"parameters":[6]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"ImagesSuppressor","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]

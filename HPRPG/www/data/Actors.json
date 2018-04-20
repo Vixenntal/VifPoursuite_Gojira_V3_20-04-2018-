@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"Namiri","characterIndex":0,"characterName":"Namiri","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Namiri","traits":[],"initialLevel":1,"maxLevel":99,"name":"Namiri","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Rodie","characterIndex":0,"characterName":"Rodie","classId":1,"equips":[1,0,0,0,0],"faceIndex":0,"faceName":"Rodie","traits":[],"initialLevel":1,"maxLevel":99,"name":"Rodie","nickname":"","note":"","profile":""}
+]

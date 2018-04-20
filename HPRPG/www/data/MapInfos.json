@@ -1,0 +1,21 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Hall de poudlard","order":5,"parentId":0,"scrollX":790.8,"scrollY":445.2},
+{"id":2,"expanded":false,"name":"Jardin","order":14,"parentId":15,"scrollX":790.8,"scrollY":445.2},
+{"id":3,"expanded":true,"name":"Défenses forces mal","order":8,"parentId":7,"scrollX":790.8,"scrollY":445.2},
+{"id":4,"expanded":true,"name":"Salle de cours","order":2,"parentId":5,"scrollX":790.8,"scrollY":445.2},
+{"id":5,"expanded":true,"name":"Couloir du musée","order":1,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":6,"expanded":true,"name":"Couloir bibliotheque","order":6,"parentId":0,"scrollX":781.1999999999999,"scrollY":754.8},
+{"id":7,"expanded":true,"name":"Bibliothèque","order":7,"parentId":6,"scrollX":781.1999999999999,"scrollY":514.8},
+{"id":8,"expanded":false,"name":"Enclos du Geruda","order":9,"parentId":3,"scrollX":790.8,"scrollY":445.2},
+{"id":9,"expanded":true,"name":"Musée Poudlard","order":4,"parentId":5,"scrollX":790.8,"scrollY":445.2},
+{"id":10,"expanded":false,"name":"Salle de potion","order":3,"parentId":5,"scrollX":832,"scrollY":640},
+{"id":11,"expanded":false,"name":"SALLE TRANSITION","order":10,"parentId":0,"scrollX":790.8,"scrollY":445.2},
+{"id":12,"expanded":false,"name":"Titlescreen","order":11,"parentId":0,"scrollX":790.8,"scrollY":445.2},
+{"id":13,"expanded":false,"name":"Forêt","order":17,"parentId":17,"scrollX":781.1999999999999,"scrollY":562.8},
+{"id":14,"expanded":true,"name":"Poudlard","order":12,"parentId":0,"scrollX":1598.3999999999999,"scrollY":1155.6},
+{"id":15,"expanded":false,"name":"Cabane Botanique","order":13,"parentId":14,"scrollX":790.8,"scrollY":445.2},
+{"id":16,"expanded":false,"name":"MAP016","order":15,"parentId":15,"scrollX":790.8,"scrollY":445.2},
+{"id":17,"expanded":false,"name":"MAP017","order":16,"parentId":16,"scrollX":1736.3999999999999,"scrollY":1743.6},
+{"id":18,"expanded":false,"name":"MAP018","order":18,"parentId":14,"scrollX":790.8,"scrollY":445.2}
+]
